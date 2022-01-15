@@ -1,16 +1,20 @@
 .container{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .red{
-    background-color: red;
+    background-color: rgb(219, 168, 168);
 }
 
 .green{
-    background-color: green;
+    background-color: rgb(177, 206, 177);
 }
 
 .blue{
-    background-color: aqua;
+    background-color: rgb(154, 200, 226);
+}
+
+.selected{
+    background-color: rgb(180, 176, 176);
 }
